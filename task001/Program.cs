@@ -16,3 +16,5 @@ else
 {
     Console.WriteLine($"max = {num2}, min = {num1}");
 }
+
+// Попытка залить в гитхаб с гитигнор
